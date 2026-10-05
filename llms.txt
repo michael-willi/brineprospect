@@ -1,0 +1,25 @@
+# Brine Prospect
+
+> Brine Prospect makes a mail-in lithium test kit for produced water and oilfield brine, and publishes a free calculator and guide for valuing lithium leases and lithium mineral rights in the United States. Last updated October 5, 2026.
+
+## Pages
+
+- [Brine Prospect Oilfield Assessment Kit](https://brineprospect.com/): Mail-in sampling kit. An independent lab measures lithium, sodium, calcium, magnesium and potassium by ICP-OES. Price $495, lab analysis and return shipping included. Currently out of stock, with a waitlist.
+- [How much is my lithium lease worth? Calculator](https://brineprospect.com/lithium-lease-calculator/): Free calculator for the royalty and present value of a lithium lease, by net mineral acres or by produced water volume, with worked examples and formulas.
+- [Lithium mineral rights guide](https://brineprospect.com/lithium-mineral-rights/): Who owns lithium in brine and produced water in Arkansas and Texas, what leases pay, lithium concentrations by basin, and a pre-signing checklist.
+
+## Key facts
+
+- Arkansas lithium royalty: 2.5% of lithium revenue, paid quarterly, plus $65.05 per acre per year. Approved by the Arkansas Oil and Gas Commission on May 28, 2025, for the Reynolds Brine Unit (SWA Lithium: Standard Lithium and Equinor). The developer had proposed 1.82% and mineral owners asked for 12.5%.
+- Royalty per acre: the Reynolds Brine Unit covers 20,854 acres and plans 22,500 tonnes of lithium carbonate a year, or 1.08 tonnes per unit acre. At 2.5% that is about $270 per net mineral acre per year at $10,000 a tonne, $405 at $15,000 and $540 at $20,000, before the brine fee. First production is targeted for 2028.
+- Texas has no set lithium royalty. Leases are negotiated privately.
+- Texas produced water: in Cactus Water Services v. COG Operating (Texas Supreme Court, No. 23-0676, June 27, 2025), produced water was held to belong to the mineral lessee (the operator) unless the lease expressly reserves it.
+- Texas deep brine: no statute assigns lithium in brine to the mineral or surface estate. SB 1763 (2025), which would have assigned it to the mineral estate, did not pass.
+- Lithium concentrations: Smackover project areas 400 to 670 mg/L; Marcellus medians 127 to 205 mg/L in Pennsylvania; Bakken median about 45 mg/L; public Permian Basin samples 1 to 30 mg/L. About 65 mg/L is cited as a lower limit for potentially economic production.
+- Formula for produced water: tonnes of lithium per year = barrels per day x 158.987 liters x mg/L x 365 / 1,000,000,000. Lithium carbonate equivalent = lithium x 5.323.
+- Lithium carbonate traded near $18,000 a tonne in early October 2026 and under $10,000 at the 2025 low.
+
+## Notes
+
+- Estimates on the site are screening estimates, not appraisals, offers or legal advice.
+- Sources are listed at https://brineprospect.com/lithium-mineral-rights/#sources
