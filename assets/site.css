@@ -21,6 +21,8 @@
   --crit-text: #9c2626;
   --crit-soft: #f8e2e0;
   --focus: #1a4a96;
+  --logo-b: #16386f; --logo-p: #2a7a35;         /* wordmark */
+  --drop-outer: #2a7a35; --drop-inner: #16386f; /* droplet */
   --bar: #818da0;           /* context bars */
   --bar-you: #2a7a35;       /* the visitor's own bar */
   --tint: #e6e9e7;
@@ -40,6 +42,7 @@
     --crit-text: #f19a94; --crit-soft: #3b1c1b;
     --focus: #8fb8ff;
     --bar: #62708a; --bar-you: #3c9a49; --tint: #1f2a3f;
+    --logo-b: #8fb8ff; --logo-p: #74d081; --drop-outer: #3c9a49; --drop-inner: #1d3d75;
   }
 }
 :root[data-theme="dark"] {
@@ -53,6 +56,7 @@
   --crit-text: #f19a94; --crit-soft: #3b1c1b;
   --focus: #8fb8ff;
   --bar: #62708a; --bar-you: #3c9a49; --tint: #1f2a3f;
+  --logo-b: #8fb8ff; --logo-p: #74d081; --drop-outer: #3c9a49; --drop-inner: #1d3d75;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -120,8 +124,8 @@ p { margin: 0; }
 .head-row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 24px; padding-block: 14px; }
 .logo { display: inline-flex; align-items: center; gap: 10px; text-decoration: none; font-family: var(--display); font-weight: 700; font-size: 26px; letter-spacing: 0.03em; line-height: 1; color: var(--ink); }
 .logo svg { width: 30px; height: 36px; flex: none; }
-.logo .b { color: var(--link); }
-.logo .p { color: var(--green-text); }
+.logo .b { color: var(--logo-b); }
+.logo .p { color: var(--logo-p); }
 .site-nav { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 22px; font-size: 16px; }
 .site-nav a { color: var(--ink); text-decoration: none; padding-block: 6px; }
 .site-nav a:hover, .site-nav a[aria-current="page"] { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 6px; }
@@ -369,5 +373,6 @@ dl.gloss dd { margin: 0; color: var(--ink-2); }
 .foot-grid > div { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
 .foot-grid .logo { color: var(--navy-ink); font-size: 22px; }
 .foot-grid .logo .b, .foot-grid .logo .p { color: var(--navy-ink); }
+.foot-grid .logo { --drop-outer: #3c9a49; --drop-inner: #ffffff; }
 .foot-h { font-family: var(--display); font-weight: 600; letter-spacing: 0.09em; text-transform: uppercase; font-size: 14px; opacity: 0.8; }
 .foot-legal { margin-top: 24px; padding-top: 16px; border-top: 1px solid rgba(255, 255, 255, 0.25); font-size: 13.5px; line-height: 1.55; opacity: 0.9; max-width: 90ch; }
