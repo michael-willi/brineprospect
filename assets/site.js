@@ -254,9 +254,7 @@
         if (!res || !res.ok) return fail();
         form.hidden = true;
         if (done) {
-          done.querySelector('.wl-done-msg').textContent = res.duplicate
-            ? email + ' is already on the list. You will hear from us when kits are available.'
-            : 'We will email ' + email + ' when kits are available.';
+          done.querySelector('.wl-done-msg').textContent = 'We will email ' + email + ' when kits are available.';
           done.hidden = false;
           done.setAttribute('tabindex', '-1');
           done.focus();
